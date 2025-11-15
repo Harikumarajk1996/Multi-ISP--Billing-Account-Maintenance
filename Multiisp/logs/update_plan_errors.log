@@ -1,0 +1,8 @@
+[2025-11-07 16:24:05] Error updating plan: Database connection error
+POST: {"plan_id":"4","isp_id":"2","name":"AirFiber 100Mbps","speed":"100 Mbps","price":"799","planmode":"2"}
+Stack: #0 {main}
+
+[2025-11-07 16:24:45] Error updating plan: Database connection error
+POST: {"plan_id":"4","isp_id":"2","name":"AirFiber 100Mbps","speed":"100 Mbps","price":"799","planmode":"2"}
+Stack: #0 {main}
+
